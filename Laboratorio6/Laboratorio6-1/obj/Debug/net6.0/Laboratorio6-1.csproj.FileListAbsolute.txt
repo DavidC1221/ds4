@@ -1,0 +1,14 @@
+C:\Users\david\Desktop\Laboratorio6\Laboratorio6-1\bin\Debug\net6.0\Laboratorio6-1.exe
+C:\Users\david\Desktop\Laboratorio6\Laboratorio6-1\bin\Debug\net6.0\Laboratorio6-1.deps.json
+C:\Users\david\Desktop\Laboratorio6\Laboratorio6-1\bin\Debug\net6.0\Laboratorio6-1.runtimeconfig.json
+C:\Users\david\Desktop\Laboratorio6\Laboratorio6-1\bin\Debug\net6.0\Laboratorio6-1.dll
+C:\Users\david\Desktop\Laboratorio6\Laboratorio6-1\bin\Debug\net6.0\Laboratorio6-1.pdb
+C:\Users\david\Desktop\Laboratorio6\Laboratorio6-1\obj\Debug\net6.0\Laboratorio6-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Laboratorio6\Laboratorio6-1\obj\Debug\net6.0\Laboratorio6-1.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Laboratorio6\Laboratorio6-1\obj\Debug\net6.0\Laboratorio6-1.AssemblyInfo.cs
+C:\Users\david\Desktop\Laboratorio6\Laboratorio6-1\obj\Debug\net6.0\Laboratorio6-1.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Laboratorio6\Laboratorio6-1\obj\Debug\net6.0\Laboratorio6-1.dll
+C:\Users\david\Desktop\Laboratorio6\Laboratorio6-1\obj\Debug\net6.0\refint\Laboratorio6-1.dll
+C:\Users\david\Desktop\Laboratorio6\Laboratorio6-1\obj\Debug\net6.0\Laboratorio6-1.pdb
+C:\Users\david\Desktop\Laboratorio6\Laboratorio6-1\obj\Debug\net6.0\Laboratorio6-1.genruntimeconfig.cache
+C:\Users\david\Desktop\Laboratorio6\Laboratorio6-1\obj\Debug\net6.0\ref\Laboratorio6-1.dll
