@@ -1,0 +1,14 @@
+C:\Users\david\Desktop\Laboratorio5 (2)\Laboratorio5\Laboratorio5-5\bin\Debug\net6.0\Laboratorio5-5.exe
+C:\Users\david\Desktop\Laboratorio5 (2)\Laboratorio5\Laboratorio5-5\bin\Debug\net6.0\Laboratorio5-5.deps.json
+C:\Users\david\Desktop\Laboratorio5 (2)\Laboratorio5\Laboratorio5-5\bin\Debug\net6.0\Laboratorio5-5.runtimeconfig.json
+C:\Users\david\Desktop\Laboratorio5 (2)\Laboratorio5\Laboratorio5-5\bin\Debug\net6.0\Laboratorio5-5.dll
+C:\Users\david\Desktop\Laboratorio5 (2)\Laboratorio5\Laboratorio5-5\bin\Debug\net6.0\Laboratorio5-5.pdb
+C:\Users\david\Desktop\Laboratorio5 (2)\Laboratorio5\Laboratorio5-5\obj\Debug\net6.0\Laboratorio5-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Laboratorio5 (2)\Laboratorio5\Laboratorio5-5\obj\Debug\net6.0\Laboratorio5-5.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Laboratorio5 (2)\Laboratorio5\Laboratorio5-5\obj\Debug\net6.0\Laboratorio5-5.AssemblyInfo.cs
+C:\Users\david\Desktop\Laboratorio5 (2)\Laboratorio5\Laboratorio5-5\obj\Debug\net6.0\Laboratorio5-5.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Laboratorio5 (2)\Laboratorio5\Laboratorio5-5\obj\Debug\net6.0\Laboratorio5-5.dll
+C:\Users\david\Desktop\Laboratorio5 (2)\Laboratorio5\Laboratorio5-5\obj\Debug\net6.0\refint\Laboratorio5-5.dll
+C:\Users\david\Desktop\Laboratorio5 (2)\Laboratorio5\Laboratorio5-5\obj\Debug\net6.0\Laboratorio5-5.pdb
+C:\Users\david\Desktop\Laboratorio5 (2)\Laboratorio5\Laboratorio5-5\obj\Debug\net6.0\Laboratorio5-5.genruntimeconfig.cache
+C:\Users\david\Desktop\Laboratorio5 (2)\Laboratorio5\Laboratorio5-5\obj\Debug\net6.0\ref\Laboratorio5-5.dll
