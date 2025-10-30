@@ -1,0 +1,17 @@
+IF DB_ID('CalcDB') IS NULL
+BEGIN
+    CREATE DATABASE CalcDB;
+END
+GO
+USE CalcDB;
+GO
+IF OBJECT_ID('dbo.Calculos', 'U') IS NULL
+BEGIN
+    CREATE TABLE dbo.Calculos(
+        Id INT IDENTITY(1,1) PRIMARY KEY,
+        Expresion NVARCHAR(200) NOT NULL,
+        Resultado NVARCHAR(50) NOT NULL,
+        Fecha DATETIME NOT NULL DEFAULT(GETDATE())
+    );
+END
+GO

@@ -1,0 +1,8 @@
+C:\Users\david\Desktop\CalcWinForms_Framework472\CalcWinForms\bin\Debug\CalcWinForms.exe.config
+C:\Users\david\Desktop\CalcWinForms_Framework472\CalcWinForms\bin\Debug\CalcWinForms.exe
+C:\Users\david\Desktop\CalcWinForms_Framework472\CalcWinForms\bin\Debug\CalcWinForms.pdb
+C:\Users\david\Desktop\CalcWinForms_Framework472\CalcWinForms\obj\Debug\CalcWinForms.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\CalcWinForms_Framework472\CalcWinForms\obj\Debug\CalcWinForms.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\CalcWinForms_Framework472\CalcWinForms\obj\Debug\CalcWinForms.exe
+C:\Users\david\Desktop\CalcWinForms_Framework472\CalcWinForms\obj\Debug\CalcWinForms.pdb
+C:\Users\david\Desktop\CalcWinForms_Framework472\CalcWinForms\obj\Debug\CalcWinForms.exe.config
