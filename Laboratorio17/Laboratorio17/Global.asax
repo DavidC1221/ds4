@@ -1,0 +1,1 @@
+<%@ Application Language="C#" Inherits="Laboratorio17.Global" %>
